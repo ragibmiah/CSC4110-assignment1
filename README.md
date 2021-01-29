@@ -1,3 +1,3 @@
-# CSC4110-assignment1
+# Github and git confilct
 Ragib Miah
 eb6734
